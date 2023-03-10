@@ -2,6 +2,9 @@
 
 <p>This project provides a framework for performing analytics tasks with local files in formats like CSV or Excel. It includes functions for importing data from local files into pandas dataframes, as well as for cleaning, transforming, and analyzing that data.</p>
 
+[![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg?logo=python)](https://www.python.org/)
+
+
 <h2>Installation</h2>
 
 <p>To use this project, you first need to create a virtual environment and install the required packages. You can do this by following these steps:</p>
