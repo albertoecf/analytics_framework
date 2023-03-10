@@ -1,0 +1,9 @@
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Ignorar la carpeta venv
+venv/
